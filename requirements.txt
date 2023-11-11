@@ -3,4 +3,4 @@ numpy
 pandas
 pydeck
 streamlit
-openpyxl
+openpyxl==3.1.2
