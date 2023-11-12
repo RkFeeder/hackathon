@@ -5,7 +5,6 @@ import numpy as np
 import openpyxl
 import io
 import requests
-from bs4 import BeautifulSoup
 import xlsxwriter
 
 # Collection of def
